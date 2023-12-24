@@ -21,8 +21,6 @@ Program to find the L and U matrix.
 Developed by: naresh.r
 RegisterNumber: 23005559
 */
-```
-
 import numpy as np
 from scipy.linalg import lu
 a=np.array(eval(input()))
@@ -47,9 +45,11 @@ print(x)
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-24 173223.png>)
 
-![Alt text](<Screenshot 2023-12-24 173355.png>)
+![Screenshot 2023-12-24 173223](https://github.com/feryjfgkuyfgewjfgew/LU-Decomposition/assets/150319377/003eaeb1-e11b-4f42-9cea-2f7e44b50ab2)
+
+![Screenshot 2023-12-24 173355](https://github.com/feryjfgkuyfgewjfgew/LU-Decomposition/assets/150319377/41542a6f-abad-41aa-b9eb-2600f8d58885)
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
