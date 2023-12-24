@@ -29,6 +29,7 @@ print(l)
 print(u)
 (ii) To find the LU Decomposition of a matrix
 ```
+```
 /*
 Program to find the LU Decomposition of a matrix.
 Developed by: naresh.r
@@ -41,7 +42,6 @@ b=np.array(eval(input()))
 lu,piv=lu_factor(a)
 x=lu_solve((lu,piv),b)
 print(x)
-
 ```
 
 ## Output:
